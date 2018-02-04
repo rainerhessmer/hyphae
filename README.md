@@ -5,7 +5,7 @@ Port of Anders Hoff's Python based implementation of [hyphae](http://inconvergen
 Big thanks to Anders Hoff for sharing the code behind his generative art and for the associated [write-ups](http://inconvergent.net/generative/).
 
 ## Web
-Live link: [hyphaeZones.html](http://hessmer.org/generative/Hyphae/hyphaeZones.html)
+Live link: [hyphaeZones.html](http://hessmer.org/generative/hyphae/hyphaeZones.html)
 
 ## Processing
 The code resides in the Processing subfolder. The output is drawn on a hidden, high resolution graphics context but is periodically downsampled and displayed so that the progress can be observed while the program is running.
